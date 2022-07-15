@@ -1,3 +1,6 @@
+#Factorial of a num
+
+
 num=2
 factorial=1
 
