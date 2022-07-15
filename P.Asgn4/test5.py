@@ -1,4 +1,4 @@
-#Fibonacci series
+#Fibonacci sequence
 
 
 num = int(input("Upto"))
@@ -13,7 +13,7 @@ elif num == 1:
     print(n1)
 
 else:
-   print("fibonacci series:")
+   print("fibonacci sequence:")
    while count < num:
        print(n1)
        a= n1 + n2
