@@ -1,3 +1,6 @@
+#Armstrong number in an interval
+
+
 lower = 100
 upper = 2000
 
