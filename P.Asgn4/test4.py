@@ -1,3 +1,5 @@
+#to check  Armstrong number
+
 num = int(input("enter a number: "))
 
 sum = 0
