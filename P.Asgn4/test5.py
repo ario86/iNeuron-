@@ -1,3 +1,6 @@
+#Fibonacci series
+
+
 num = int(input("Upto"))
 
 n1, n2 = 0, 1
