@@ -1,4 +1,4 @@
-#multiplication table
+#sum of natural nos.
 
 n = int(input("how many natural numbers? "))
 
